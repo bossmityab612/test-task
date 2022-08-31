@@ -1,17 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./vendor/normalize.css">
     <link rel="stylesheet" href="./style/index.css">
     <title>TGtron</title>
 </head>
-<body>
-    <header>
-        <div class="logo">
-            
+<body class="content">
+
+    <div class="header">
+        
+        <div class="conteiner-logo-menu">
+            <div class="logo">
+                <img src="./image/ico.svg" alt="Лого" class="logo__image">
+                <p class="logo__text">TGtron</p>
+            </div>
+
+            <nav class="menu">
+                <li class="menu__list"><a href="#" class="menu__list_link">Цены</a></li>
+                <li class="menu__list"><a href="#" class="menu__list_link">Блог</a></li>
+                <li class="menu__list"><a href="#" class="menu__list_link">Справка</a></li>
+            </nav>
         </div>
-    </header>
+
+        <div class="button-block">
+            <button class="button-item"><a>Войти</a></button>
+            <button class="button-item"><a>Регистрация</a></button>
+        </div>
+    </div>
+
+    <main class="page">
+        <div class="intro">
+            <div class="intro__block">
+                <h1 class="intro__title">Самый удобный сервис для продвижения в Telegram!</h1>
+                <h2 class="intro__subtitle">Начните привлекать новых подписчиков прямо сейчас бесплатно</h2>
+            </div>
+    
+            <img src="./image/Group 1477.png" alt="Компухтер" class="intro__image">
+        </div>
+        
+    </main>
+
 </body>
 </html>

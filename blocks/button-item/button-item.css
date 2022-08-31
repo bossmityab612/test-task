@@ -1,0 +1,13 @@
+.button-item {
+    display: block;
+    border-radius: 8px;
+    border: 1px solid blue;
+    background-color: transparent;
+    color: #fff;
+    margin: 0 0 0 20px;
+    padding: 16px 32px;
+}
+
+.button-item:first-child {
+    margin: 0;
+}

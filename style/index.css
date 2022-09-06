@@ -24,4 +24,7 @@
 @import url('../blocks/intro/__block/intro__block.css');
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/intro/__subtitle/intro__subtitle.css');
+@import url('../blocks/intro/__link-block/intro__link-block.css');
+@import url('../blocks/intro/__link-image/intro__link-image.css');
+@import url('../blocks/intro/__link-info/intro__link-info.css');
 @import url('../blocks/intro/__image/intro__image.css');

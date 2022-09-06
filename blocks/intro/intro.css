@@ -4,5 +4,7 @@
     margin: 0 auto;
     color: #fff;
     display: grid;
-    grid-template-rows: ;
+    grid-template-areas: 
+        'intro__title intro__subtitle intro__image';
+    justify-content: space-between;
 }

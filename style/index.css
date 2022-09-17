@@ -39,3 +39,12 @@
 @import url('../blocks/slogan/__block/__digits/slogan___digits.css');
 @import url('../blocks/slogan/__block/__digits/_descripion/slogan__digits_descripion.css');
 @import url('../blocks/slogan/__block/__logo/slogan__logo.css');
+
+/* ------------------Аудит------------------- */
+@import url('../blocks/audit/audit.css');
+@import url('../blocks/audit/__image/audit__image.css');
+@import url('../blocks/audit/__description/audit__description.css');
+@import url('../blocks/audit/__title/audit__title.css');
+@import url('../blocks/audit/__text-1/audit__text-1.css');
+@import url('../blocks/audit/__text-2/audit__text-2.css');
+@import url('../blocks/audit/__text-3/audit__text-3.css');

@@ -1,8 +1,8 @@
 .button-item {
     display: block;
     border-radius: 8px;
-    border: 1px solid blue;
-    background-color: transparent;
+    border: 1px solid blue;                        
+    background: linear-gradient(90deg, #2f68fe,#7b9ffe,#dd5789);
     color: #fff;
     margin: 0 0 0 20px;
     padding: 16px 32px;

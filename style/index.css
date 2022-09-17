@@ -18,6 +18,7 @@
 /* ------------Кнопки Войти и Регистрация----------- */
 @import url('../blocks/button-block/button-block.css');
 @import url('../blocks/button-item/button-item.css');
+@import url('../blocks/button-item/_login/button-item_login.css');
 
 /* ---------------------Интро------------------ */
 @import url('../blocks/intro/intro.css');
@@ -28,3 +29,12 @@
 @import url('../blocks/intro/__link-image/intro__link-image.css');
 @import url('../blocks/intro/__link-info/intro__link-info.css');
 @import url('../blocks/intro/__image/intro__image.css');
+
+/* --------------Блок со слоганом------------- */
+@import url('../blocks/slogan/slogan.css');
+@import url('../blocks/slogan/__text/slogan__text.css');
+@import url('../blocks/slogan/__block/slogan___block.css');
+@import url('../blocks/slogan/__block/__icons/slogan___icons.css');
+@import url('../blocks/slogan/__block/__digits/slogan___digits.css');
+@import url('../blocks/slogan/__block/__digits/_descripion/slogan__digits_descripion.css');
+@import url('../blocks/slogan/__block/__logo/slogan__logo.css');

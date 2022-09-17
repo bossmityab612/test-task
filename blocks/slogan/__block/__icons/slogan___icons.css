@@ -1,6 +1,6 @@
 .slogan__icons {
-    border: 1px solid red;
-    max-width: 1300px;
-    margin: 0 auto;
+    margin: 0;
+    background-repeat: no-repeat;
+    height: 64px;
     color: #fff;
 }

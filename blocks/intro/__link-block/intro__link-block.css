@@ -1,4 +1,6 @@
 .intro__link-block {
-    border: 1px solid red;
     display: flex;
+    height: 46px;
+    width: 364px;
+    align-items: center;
 }

@@ -1,9 +1,9 @@
 .intro {
-    border: 1px solid #fff;
     width: 1300px;
-    margin: 0 auto;
+    margin: 0 auto 256px;
     color: #fff;
     display: grid;
+    
     grid-template-areas: 
         'intro__title intro__subtitle intro__image';
     justify-content: space-between;

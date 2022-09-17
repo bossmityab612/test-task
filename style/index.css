@@ -1,5 +1,6 @@
 /* ----------------Шрифты-------------------- */
 @import url('../vendor/jetbrains-mono.css');
+@import url('../vendor/inter-font.css');
 
 /* -----------------Заголовок---------------- */
 @import url('../blocks/conteiner-logo-menu/conteiner-logo-menu.css');

@@ -1,3 +1,7 @@
 .slogan__text {
-    border: 1px solid green;
+    max-width: 790px;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 120%;
+    margin: 0 0 48px;
 }

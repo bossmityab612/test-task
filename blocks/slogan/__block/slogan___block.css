@@ -1,6 +1,7 @@
-.slogan {
-    border: 1px solid red;
+.slogan__block {
+    margin: 0;
     max-width: 1300px;
-    margin: 0 auto;
     color: #fff;
+    display: flex;
+    
 }

@@ -1,3 +1,8 @@
 .intro__link-info {
-    border: 1px solid #fff;
+    display: block;
+    margin: 0 0 0 16px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    justify-content: center;
 }

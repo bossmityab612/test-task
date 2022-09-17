@@ -1,3 +1,6 @@
 .audit__title {
-    border: 1px solid pink;
+    margin: 0 0 48px 0;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 120%;
 }

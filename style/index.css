@@ -52,3 +52,19 @@
 @import url('../blocks/audit/__text-3/audit__text-3.css');
 
 /* --------Блок "Часто задаваемые вопросы"------ */
+@import url('../blocks/question/question.css');
+@import url('../blocks/question/__list/question__list.css');
+
+/* -------------Блок "Отзывы"------------- */
+@import url('../blocks/reviews/reviews.css');
+@import url('../blocks/reviews/__title/reviews__title.css');
+@import url('../blocks/reviews/__block/reviews__block.css');
+@import url('../blocks/reviews/__button/reviews__button.css');
+@import url('../blocks/button-left/button-left.css');
+@import url('../blocks/button-right/button-right.css');
+@import url('../blocks/reviews/__description/reviews__description.css');
+@import url('../blocks/reviews/__description/_text/reviews__description_text.css');
+@import url('../blocks/reviews/__admin/reviews__admin.css');
+@import url('../blocks/reviews/__image/reviews__image.css');
+@import url('../blocks/reviews/__admin/_title/reviews__admin_title.css');
+@import url('../blocks/reviews/__admin/_subtitle/reviews__admin_subtitle.css');

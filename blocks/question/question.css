@@ -1,0 +1,9 @@
+.question {
+    max-width: 860px;
+    margin: 0 auto;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+}

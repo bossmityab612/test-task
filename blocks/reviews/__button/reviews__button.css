@@ -1,0 +1,7 @@
+.reviews__button {
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    width: 46px;
+    height: 46px;
+}

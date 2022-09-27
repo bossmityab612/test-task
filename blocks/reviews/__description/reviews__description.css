@@ -1,0 +1,6 @@
+.reviews__description {
+    border: 3px solid blue;
+    /* max-width: 640px; */
+    margin: 0 auto;
+    padding: 48px;
+}

@@ -1,4 +1,7 @@
 .secure__title {
+    margin: 0;
     max-width: 520px;
     color: #fff;
+    font-family: Inter, sans-serif, Helvetica;
+    font-weight: 500;
 }

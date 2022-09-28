@@ -1,5 +1,7 @@
 .secure__video {
-    width: 380px;
+    max-width: 380px;
     height: 380px;
-    border: 1px solid #fff;
+    padding: 0;
+    margin: auto 0 auto 290px;
+    object-fit: cover;
 }

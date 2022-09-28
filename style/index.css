@@ -69,3 +69,10 @@
 @import url('../blocks/reviews/__admin/_desc-block/reviews__admin_desc-block.css');
 @import url('../blocks/reviews/__admin/_title/reviews__admin_title.css');
 @import url('../blocks/reviews/__admin/_subtitle/reviews__admin_subtitle.css');
+
+/* ------------Блок с анимацией---------- */
+@import url('../blocks/secure/secure.css');
+@import url('../blocks/secure/__description/secure__description.css');
+@import url('../blocks/secure/__title/secure__title.css');
+@import url('../blocks/secure/__paragraph/secure__paragraph.css');
+@import url('../blocks/secure/__video/secure__video.css');

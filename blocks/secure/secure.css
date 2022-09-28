@@ -1,0 +1,8 @@
+.secure {
+    width: 100%;
+    height: 892px;
+    color: #fff;
+    border: 1px solid #fff;
+    display: flex;
+    background: linear-gradient(180deg, #0d1117,#010001,#0d1117);
+}

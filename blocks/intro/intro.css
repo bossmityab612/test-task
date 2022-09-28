@@ -2,9 +2,9 @@
     width: 1300px;
     margin: 0 auto 256px;
     color: #fff;
-    display: grid;
-    
-    grid-template-areas: 
-        'intro__title intro__subtitle intro__image';
+    display: flex;
+    border: 1px solid #fff;
+    /* grid-template-areas: 
+        'intro__title intro__subtitle intro__image'; */
     justify-content: space-between;
 }

@@ -1,7 +1,7 @@
 .intro__image {
+    border: 1px solid #fff;
     margin: 0;
     padding: 0;
     width: 555px;
-    display: block;
-    border: 1px solid #fff;
+    object-fit: cover;
 }

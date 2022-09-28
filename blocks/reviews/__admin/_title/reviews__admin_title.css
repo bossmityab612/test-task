@@ -1,3 +1,6 @@
 .reviews__admin_title {
-    border: 1px solid red;
+    margin: 24px auto 8px;
+    font-size: 18px;
+    line-height: 21.6px;
+    font-weight: 500;
 }

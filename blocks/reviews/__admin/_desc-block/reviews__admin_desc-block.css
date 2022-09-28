@@ -1,0 +1,5 @@
+.reviews__admin_desc-block {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

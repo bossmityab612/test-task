@@ -1,5 +1,11 @@
 .content {
     background-color: #0D1117;
-    min-width: 320px;
     font-family: Inter, sans-serif, Helvetica;
+    width: 100%;
 }
+/* 
+@media screen and (max-width: 1023px) {
+    .content {
+        max-width: 1023px;
+    }
+} */

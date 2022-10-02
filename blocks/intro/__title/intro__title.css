@@ -2,4 +2,5 @@
     max-width: 580px;
     min-height: 144px;
     font-size: 40px;
+    grid-area: intro__title;
 }

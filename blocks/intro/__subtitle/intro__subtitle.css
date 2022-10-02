@@ -1,4 +1,7 @@
 .intro__subtitle {
     width: 100%;
     min-height: 54px;
+    font-size: 16px;
+    align-items: start;
+    grid-area: intro__subtitle;
 }

@@ -1,8 +1,10 @@
 .audit {
-    display: flex;
     align-items: end;
     font-family: Inter, sans-serif;
     color: #fff;
     max-width: 1300px;
     margin: 256px auto;
+    display: grid;
+    grid-template-columns: auto;
+    border: 1px solid red;
 }

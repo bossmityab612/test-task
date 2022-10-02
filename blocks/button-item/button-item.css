@@ -1,12 +1,13 @@
 .button-item {
     height: 46px;
     font-size: 14px;
-    width: 190px;
+    max-width: 190px;
     border-radius: 8px;
     background: linear-gradient(90deg, #2f68fe,#7b9ffe,#dd5789);
     color: #fff;
     margin: 0 0 0 20px;
     border: none;
+    cursor: pointer;
 }
 
 .button-item:first-child {
